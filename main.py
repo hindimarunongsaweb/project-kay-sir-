@@ -3,6 +3,7 @@
 # Ask the user for their name
 print("may nag bago ba?")
 print("may nag bago ba talaga popoy? ")
+print("oo!, meron basha! ")
 name = input("What's your name? ")
 num = int(input("Anong Number Paborito mo? "))
 
